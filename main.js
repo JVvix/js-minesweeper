@@ -50,6 +50,10 @@ function createBoard(rows, cols) {
   }
 }
 
+function seeMines() {
+  
+}
+
 function goBack() { 
   if (lose) {
     
